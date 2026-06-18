@@ -29,5 +29,5 @@ Variabel yang digunakan meliputi:
 - data/                 : Berisi dataset tingkat pengangguran terbuka tahun 2015–2025
 - output/               : Berisi hasil analisis dan visualisasi
 - regresi_pengangguran.py : Program utama untuk analisis regresi
-- README.md             : Dokumentasi proyek
+- README.md             : Deskripsi Projek
 
